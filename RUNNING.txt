@@ -1,0 +1,1 @@
+spark-submit --master=yarn-client project/bagofwords.py project/EnronEmailText.txt projectoutput/gini.txt
